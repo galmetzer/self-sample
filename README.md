@@ -3,7 +3,7 @@
 We introduce a novel technique for neural point cloud consolidation
 which learns from only the input point cloud.
 
-### TOG 2021 (Provisionally accepted) [[Paper]](https://arxiv.org/abs/2008.06471) [[Project Page]](https://galmetzer.github.io/self-sample/)<br>
+### TOG 2021 [[Paper]](https://arxiv.org/abs/2008.06471) [[Project Page]](https://galmetzer.github.io/self-sample/)<br>
 by [Gal Metzer](https://galmetzer.github.io/), [Rana Hanocka](https://www.cs.tau.ac.il/~hanocka/), [Raja Giryes](http://web.eng.tau.ac.il/~raja), and [Daniel Cohen-Or](https://danielcohenor.com/)
 
 # Getting Started
