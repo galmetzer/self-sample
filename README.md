@@ -39,10 +39,17 @@ and respectively for the other shapes as well.
 If you find this code useful, please consider citing our paper
 ```
 @article{metzer2020self,
-  title={Self-Sampling for Neural Point Cloud Consolidation},
-  author={Metzer, Gal and Hanocka, Rana and Giryes, Raja and Cohen-Or, Daniel},
-  journal={arXiv preprint arXiv:2008.06471},
-  year={2020}
+author = {Metzer, Gal and Hanocka, Rana and Giryes, Raja and Cohen-Or, Daniel},
+title = {Self-Sampling for Neural Point Cloud Consolidation},
+year = {2021},
+issue_date = {October 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {40},
+number = {5},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3470645},
+doi = {10.1145/3470645},
 }
 ```
 
